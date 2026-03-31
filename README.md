@@ -28,7 +28,7 @@ This repository contains the complete submission for the Open Source Audit capst
 ## Repository Structure
 
 ```
-oss-audit-24BSA10062/
+oss-audit-24BCY10241/
 │
 ├── README.md
 ├── OSS_Capstone_Linux_Kernel_YuvrajDwivedi.pdf
